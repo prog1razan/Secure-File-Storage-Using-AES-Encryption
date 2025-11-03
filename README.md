@@ -69,4 +69,8 @@ AES is used in many real-world applications, such as:
 2. Upload a file for encryption  
 3. The file is encrypted using AES  
 4. The encrypted file is securely stored  
-5. Retrieve and decrypt files when needed  
+5. Retrieve and decrypt files when needed
+
+---
+
+### 💖 Built with love by **Razan Alothaim**
